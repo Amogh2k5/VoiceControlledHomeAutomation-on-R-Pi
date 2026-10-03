@@ -1,0 +1,14 @@
+pvporcupine==3.0.2
+vosk==0.3.45
+pyaudio==0.2.14
+numpy>=2.0,<3.0
+apscheduler==3.10.4
+fastapi==0.112.2
+uvicorn==0.30.6
+pydantic==2.8.2
+pydantic-settings==2.3.4
+python-multipart==0.0.9
+gpiozero==2.0.1.post3
+
+# System dependencies (install via apt):
+# python3-venv portaudio19-dev libsndfile1

@@ -1,0 +1,210 @@
+segment,open_text,grammar_text,text_changed,open_device_token,grammar_device_token,open_onoff,grammar_onoff,open_appliance,open_action,open_success,grammar_appliance,grammar_action,grammar_success,open_success_norm,grammar_success_norm,open_had_unk,grammar_had_unk
+segment_001.wav,sean,switch on,True,,,,on,,,False,,,False,False,False,False,False
+segment_002.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_003.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_004.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_005.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_006.wav,switch off,[unk] switch off,True,,,off,off,,,False,,,False,False,False,False,True
+segment_007.wav,on,switch on,True,,,on,on,,,False,,,False,False,False,False,False
+segment_008.wav,yeah,switch off a c,True,,,,off,,,False,ac,off,True,False,True,False,False
+segment_009.wav,switch on to switch off over,switch on switch off on,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_010.wav,search on switch off burma,switch on switch off,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_011.wav,search on fun,switch on fan,True,,fan,on,on,,,False,fan,on,True,False,True,False,False
+segment_012.wav,switch off funny,[unk] switch off,True,,,off,off,,,False,,,False,False,False,False,True
+segment_013.wav,rich or light switch off night,switch on light switch off light,True,light,light,off,"on,off",,,False,,,False,False,False,False,False
+segment_014.wav,switch on,[unk] switch on,True,,,on,on,,,False,,,False,False,False,False,True
+segment_015.wav,switch off,switch off,False,,,off,off,,,False,,,False,False,False,False,False
+segment_016.wav,switch on a c,switch on a c,False,,,on,on,ac,on,True,ac,on,True,True,True,False,False
+segment_017.wav,switch off,switch off a c,True,,,off,off,,,False,ac,off,True,False,True,False,False
+segment_018.wav,sean over switch over to switch on a bus,[unk] switch on switch off switch on,True,,,on,"on,off",,,False,,,False,False,False,False,True
+segment_019.wav,switch off,[unk] switch off,True,,,off,off,,,False,,,False,False,False,False,True
+segment_020.wav,french firm,on fan,True,,fan,,on,,,False,fan,on,True,False,True,False,False
+segment_021.wav,which of us,switch off,True,,,,off,,,False,,,False,False,False,False,False
+segment_022.wav,right,switch on,True,,,,on,,,False,,,False,False,False,False,False
+segment_023.wav,switch off by,switch off,True,,,off,off,,,False,,,False,False,False,False,False
+segment_024.wav,switch on the switch off switch on a c,switch on switch off switch on a c,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_025.wav,switch off switch on,switch off a c switch on,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_026.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_027.wav,of such horrible switch off,off switch on switch off,True,,,off,"on,off",,,False,,,False,False,False,False,False
+segment_028.wav,switch off,switch off fan,True,,fan,off,off,,,False,fan,off,True,False,True,False,False
+segment_029.wav,with,,True,,,,,,,False,,,False,False,False,False,False
+segment_030.wav,sir,on,True,,,,on,,,False,,,False,False,False,False,False
+segment_031.wav,rich on a light switch off late,[unk] switch on light switch off light,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,True
+segment_032.wav,switch,switch on,True,,,,on,,,False,,,False,False,False,False,False
+segment_033.wav,rich of species,switch off,True,,,,off,,,False,,,False,False,False,False,False
+segment_034.wav,so it's shown such,switch on switch,True,,,,on,,,False,,,False,False,False,False,False
+segment_035.wav,switch on switch off or one,c switch on switch off,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_036.wav,church,switch,True,,,,,,,False,,,False,False,False,False,False
+segment_037.wav,oh,,True,,,,,,,False,,,False,False,False,False,False
+segment_038.wav,switch off that fan,switch off fan fan,True,fan,fan,off,off,,,False,fan,off,True,False,True,False,False
+segment_039.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_040.wav,i,,True,,,,,,,False,,,False,False,False,False,False
+segment_041.wav,switch off,switch off,False,,,off,off,,,False,,,False,False,False,False,False
+segment_042.wav,switch on,switch on,False,,,on,on,,,False,,,False,False,False,False,False
+segment_043.wav,switch off steam,switch off,True,,,off,off,,,False,,,False,False,False,False,False
+segment_044.wav,switch or,switch on,True,,,,on,,,False,,,False,False,False,False,False
+segment_045.wav,oh,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_046.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_047.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_048.wav,such or on,switch on on,True,,,on,on,,,False,,,False,False,False,False,False
+segment_049.wav,of,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_050.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_051.wav,sure,,True,,,,,,,False,,,False,False,False,False,False
+segment_052.wav,shaw,,True,,,,,,,False,,,False,False,False,False,False
+segment_053.wav,switch on,switch on,False,,,on,on,,,False,,,False,False,False,False,False
+segment_054.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_055.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_056.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_057.wav,which on or one should show off or one such on,switch on switch off switch on,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_058.wav,of,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_059.wav,watch on farms,on fan,True,,fan,on,on,,,False,fan,on,True,False,True,False,False
+segment_060.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_061.wav,switch on and light switch off light switch on,switch on light switch off light switch on,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_062.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_063.wav,switch on a c switch off easy,switch on air c switch off a c,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_064.wav,one switch,switch on switch off,True,,,,"on,off",,,False,,,False,False,False,False,False
+segment_065.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_066.wav,sean,on,True,,,,on,,,False,,,False,False,False,False,False
+segment_067.wav,switch off,switch off,False,,,off,off,,,False,,,False,False,False,False,False
+segment_068.wav,switch on blog switch off blog switch on engage us switch,[unk] switch on plug switch off plug switch on geyser switch,True,,geyser,"on,off","on,off",,,False,,,False,False,False,False,True
+segment_069.wav,and soft switch off the exhaust,on exhaust switch off exhaust,True,exhaust,exhaust,off,"on,off",,,False,,,False,False,False,False,False
+segment_070.wav,org,switch on,True,,,,on,,,False,,,False,False,False,False,False
+segment_071.wav,switch off guard and lights,switch off garden lights,True,light,garden lights,off,off,,,False,garden lights,off,True,False,True,False,False
+segment_072.wav,switch on fun,switch on fan,True,,fan,on,on,fan,on,True,fan,on,True,True,True,False,False
+segment_073.wav,or,switch on,True,,,,on,,,False,,,False,False,False,False,False
+segment_074.wav,to switch off switch off like switch on t v switch off,switch off fan switch off light switch on t v switch off,True,,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_075.wav,yeah,a c,True,,,,,,,False,,,False,False,False,False,False
+segment_076.wav,switch off his shirt shona,switch off a c switch on,True,,,off,"on,off",,,False,,,False,False,False,False,False
+segment_077.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_078.wav,switch on one,switch on,True,,,on,on,,,False,,,False,False,False,False,False
+segment_079.wav,which of,switch off,True,,,,off,,,False,,,False,False,False,False,False
+segment_080.wav,switch luck or switch off switch on gives us which of these us,switch plug switch off plug switch on geyser switch off geyser,True,,geyser,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_081.wav,such on and soft,switch on exhaust,True,,exhaust,on,on,,,False,exhaust,on,True,False,True,False,False
+segment_082.wav,much of an exhaust minutes,switch off exhaust,True,exhaust,exhaust,,off,,,False,exhaust,off,True,False,True,False,False
+segment_083.wav,switch on guard and rights,[unk] switch on garden lights,True,,garden lights,on,on,,,False,,,False,False,False,False,True
+segment_084.wav,switch off,switch off,False,,,off,off,,,False,,,False,False,False,False,False
+segment_085.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_086.wav,switch on,switch on,False,,,on,on,,,False,,,False,False,False,False,False
+segment_087.wav,but,,True,,,,,,,False,,,False,False,False,False,False
+segment_088.wav,switch on light such chaos night,[unk] switch on light switch off light,True,light,light,on,"on,off",,,False,,,False,False,False,False,True
+segment_089.wav,watch on t v,switch on t v,True,,,on,on,,,False,tv,on,True,False,True,False,False
+segment_090.wav,the way,off t v,True,,,,off,,,False,tv,off,True,False,True,False,False
+segment_091.wav,,switch a c,True,,,,,,,False,,,False,False,False,False,False
+segment_092.wav,switch switch off woven switch switch off verb,off a c switch on switch off switch switch off,True,,,off,"on,off",,,False,,,False,False,False,False,False
+segment_093.wav,such and such of bloke,switch on switch off plug,True,,plug,,"on,off",,,False,,,False,False,False,False,False
+segment_094.wav,switch out switch off switch on the exhaust fish of exhaust,switch on geyser switch off geyser switch on exhaust switch off exhaust,True,exhaust,exhaust,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_095.wav,switch on garden such also got a ledge,switch on garden lights switch off garden lights,True,,garden lights,on,"on,off",,,False,,,False,False,False,False,False
+segment_096.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_097.wav,switch on fancied shots,switch on fan switch off,True,fan,fan,on,"on,off",,,False,,,False,False,False,False,False
+segment_098.wav,fans were on light switch off flight,[unk] fan switch on light switch off light,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,True
+segment_099.wav,switch on t v switch off t v,switch on t v switch off t v,False,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_100.wav,switch on the airships push for me to switch on and off for one,switch on a c switch off switch on on switch off,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_101.wav,switch off,switch on switch off,True,,,off,"on,off",,,False,,,False,False,False,False,False
+segment_102.wav,doug,on plug,True,,plug,,on,,,False,plug,on,True,False,True,False,False
+segment_103.wav,of luck,off plug,True,,plug,,off,,,False,plug,off,True,False,True,False,False
+segment_104.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_105.wav,switch on guys,switch on geyser,True,,geyser,on,on,,,False,geyser,on,True,False,True,False,False
+segment_106.wav,switch on exhaust to switch off exhaust,switch on exhaust switch off exhaust,True,exhaust,exhaust,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_107.wav,which,switch,True,,,,,,,False,,,False,False,False,False,False
+segment_108.wav,,on,True,,,,on,,,False,,,False,False,False,False,False
+segment_109.wav,which,exhaust,True,,exhaust,,,,,False,,,False,False,False,False,False
+segment_110.wav,switch off on switched on gonna switch off,switch off on switch on switch off,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_111.wav,sean lock push off club switch on guys or switch off,switch on plug switch off plug switch on geyser switch off,True,,geyser,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_112.wav,are switch on it,switch on,True,,,on,on,,,False,,,False,False,False,False,False
+segment_113.wav,switch off the exhaust,switch off exhaust,True,exhaust,exhaust,off,off,,,False,exhaust,off,True,False,True,False,False
+segment_114.wav,switch on northern lights switch off guard and let's switch,switch on garden lights switch off garden lights switch,True,light,garden lights,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_115.wav,on,on,False,,,on,on,,,False,,,False,False,False,False,False
+segment_116.wav,luck,plug,True,,plug,,,,,False,,,False,False,False,False,False
+segment_117.wav,switch,switch off,True,,,,off,,,False,,,False,False,False,False,False
+segment_118.wav,switch on geyser switch keyser switch on,switch on geyser switch geyser switch on,True,geyser,geyser,on,on,,,False,,,False,False,False,False,False
+segment_119.wav,source switch off exhaust,exhaust switch off exhaust,True,exhaust,exhaust,off,off,,,False,exhaust,off,True,False,True,False,False
+segment_120.wav,don't know it's it's such a switch off garden,[unk] switch on garden lights switch switch off garden,True,,garden lights,off,"on,off",,,False,,,False,False,False,False,True
+segment_121.wav,all right,on,True,,,,on,,,False,,,False,False,False,False,False
+segment_122.wav,on,switch on,True,,,on,on,,,False,,,False,False,False,False,False
+segment_123.wav,offer to,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_124.wav,sean,,True,,,,,,,False,,,False,False,False,False,False
+segment_125.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_126.wav,such and such awful much on,switch on switch off switch on,True,,,on,"on,off",,,False,,,False,False,False,False,False
+segment_127.wav,of,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_128.wav,work,on plug,True,,plug,,on,,,False,plug,on,True,False,True,False,False
+segment_129.wav,which of,switch off,True,,,,off,,,False,,,False,False,False,False,False
+segment_130.wav,sean switch off,on geyser switch off,True,,geyser,off,"on,off",,,False,,,False,False,False,False,False
+segment_131.wav,sean exhaust search of an exhaust,exhaust switch off exhaust,True,exhaust,exhaust,,off,,,False,exhaust,off,True,False,True,False,False
+segment_132.wav,a nice,[unk] switch on garden lights,True,,garden lights,,on,,,False,,,False,False,False,False,True
+segment_133.wav,,lights,True,,light,,,,,False,,,False,False,False,False,False
+segment_134.wav,switch on fan switch off,switch on fan switch off,False,fan,fan,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_135.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_136.wav,one,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_137.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_138.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_139.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_140.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_141.wav,source such offers off,off,True,,,off,off,,,False,,,False,False,False,False,False
+segment_142.wav,,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_143.wav,switch such off but not stretch on all light switch off hall lights people,switch off light switch off switch on off light switch off on light,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_144.wav,switch on kitchen light switch off good sunlight,switch on switch on light switch off switch on light,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_145.wav,such on the and such of were down fun,switch on fan switch off garden fan,True,,fan,on,"on,off",,,False,,,False,False,False,False,False
+segment_146.wav,switch on auto pump such of water,switch on water switch off water,True,,,on,"on,off",,,False,,,False,False,False,False,False
+segment_147.wav,switch on,switch on,False,,,on,on,,,False,,,False,False,False,False,False
+segment_148.wav,i'd switch or light switch,light switch on light switch on,True,light,light,,on,,,False,,,False,False,False,False,False
+segment_149.wav,right,lights,True,,light,,,,,False,,,False,False,False,False,False
+segment_150.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_151.wav,of,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_152.wav,switch off,switch on light switch off,True,,light,off,"on,off",,,False,,,False,False,False,False,False
+segment_153.wav,such,switch,True,,,,,,,False,,,False,False,False,False,False
+segment_154.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_155.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_156.wav,switch,switch,False,,,,,,,False,,,False,False,False,False,False
+segment_157.wav,switch off,switch off,False,,,off,off,,,False,,,False,False,False,False,False
+segment_158.wav,switch switch off water pump,[unk] switch on water switch off water,True,,,off,"on,off",,,False,,,False,False,False,False,True
+segment_159.wav,right,on fan on on,True,,fan,,on,,,False,,,False,False,False,False,False
+segment_160.wav,right on t v,off light t v off t v,True,,light,on,off,,,False,,,False,False,False,False,False
+segment_161.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_162.wav,on one,on,True,,,on,on,,,False,,,False,False,False,False,False
+segment_163.wav,also one of the globe,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_164.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_165.wav,on plug on diesel of dawn on the exhaust sun of exhaustion,on plug on geyser turn off geyser on on exhaust fan on off exhaust fan,True,exhaust,exhaust,on,"on,off",,,False,,,False,False,False,False,False
+segment_166.wav,en garde onwards torn off guard and lives,on garden lights off garden lights,True,,garden lights,off,"on,off",,,False,,,False,False,False,False,False
+segment_167.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_168.wav,on bedroom night off on hall on of,on light off on on light on off,True,,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_169.wav,light on a kitchen night off kitchen,light on on switch on light on off switch on,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_170.wav,better dawn of going to confront on on what con unos,fan turn off turn on on water off,True,,fan,on,"on,off",,,False,,,False,False,False,False,False
+segment_171.wav,,,False,,,,,,,False,,,False,False,False,False,False
+segment_172.wav,the fan on,fan on,True,fan,fan,on,on,fan,on,True,fan,on,True,True,True,False,False
+segment_173.wav,of light on t v on t v re en,off light on light off t v on t v off air c on,True,light,light,on,"on,off",,,False,,,False,False,False,False,False
+segment_174.wav,on of on or off blog on log off,on off on off off plug on plug off,True,,plug,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_175.wav,on,geyser on,True,,geyser,on,on,,,False,geyser,on,True,False,True,False,False
+segment_176.wav,exhaust fan on exhaust fan of,exhaust fan on exhaust fan off,True,exhaust,exhaust,on,"on,off",,,False,,,False,False,False,False,False
+segment_177.wav,lights on gordon lights off bedroom right on light,garden lights on garden lights off light on light,True,light,garden lights,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_178.wav,of,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_179.wav,light on off,light on on off,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_180.wav,right on like of bedroom chance on bedroom fun,light on light off turn on fan,True,,light,on,"on,off",,,False,,,False,False,False,False,False
+segment_181.wav,of,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_182.wav,what oh come on board of pompous,water on water,True,,,on,on,,,False,,,False,False,False,False,False
+segment_183.wav,on on fire and on of fan on like one horse night on t v t v,on on fan on off fan on light off light on on t v turn off t v,True,fan,light,on,"on,off",,,False,,,False,False,False,False,False
+segment_184.wav,on easy,turn on c,True,,,on,on,,,False,,,False,False,False,False,False
+segment_185.wav,turn off and on or off,turn off on on off,True,,,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_186.wav,or when off,on off,True,,,off,"on,off",,,False,,,False,False,False,False,False
+segment_187.wav,oh one of law,on off plug,True,,plug,,"on,off",,,False,,,False,False,False,False,False
+segment_188.wav,on on smoke,on on plug,True,,plug,on,on,,,False,,,False,False,False,False,False
+segment_189.wav,on the front of off,on on geyser on off geyser,True,,geyser,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_190.wav,on on exhaust fan moss exhaust fun,on on exhaust fan exhaust fan,True,exhaust,exhaust,on,on,,,False,,,False,False,False,False,False
+segment_191.wav,en garde lights out and lights on at night,on garden lights off garden lights on on off light,True,light,garden lights,on,"on,off",,,False,,,False,False,False,False,False
+segment_192.wav,on on on my on off all right,on on on light on off on light,True,,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_193.wav,on kitchen like an ostrich sunlight,on light off t light,True,light,light,on,"on,off",,,False,,,False,False,False,False,False
+segment_194.wav,on on bedroom fan of where to turn on what a form of,on on fan on off fan turn on water off,True,fan,fan,on,"on,off",,,False,,,False,False,False,False,False
+segment_195.wav,for and on,fan on,True,,fan,on,on,,,False,fan,on,True,False,True,False,False
+segment_196.wav,and of light on tonight of t v on of a seat on a sea of,off light on light off t v on off a c on a c off,True,light,light,on,"on,off",,,False,,,False,False,False,False,False
+segment_197.wav,on of,on off,True,,,on,"on,off",,,False,,,False,False,False,False,False
+segment_198.wav,oh one on,on,True,,,on,on,,,False,,,False,False,False,False,False
+segment_199.wav,one of,off,True,,,,off,,,False,,,False,False,False,False,False
+segment_200.wav,on log off,on plug off,True,,plug,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_201.wav,on major off,geyser on geyser off,True,,geyser,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_202.wav,exhaust fan on exhaust fan of,exhaust fan on exhaust fan off,True,exhaust,exhaust,on,"on,off",,,False,,,False,False,False,False,False
+segment_203.wav,god and lights on,garden lights on,True,light,garden lights,on,on,,,False,garden lights,on,True,False,True,False,False
+segment_204.wav,and rights of,garden lights off,True,,garden lights,,off,,,False,garden lights,off,True,False,True,False,False
+segment_205.wav,it's on of,lights on light off,True,,light,on,"on,off",,,False,,,False,False,False,False,False
+segment_206.wav,or light on how light of,on light on light off,True,light,light,on,"on,off",,,False,,,False,False,False,False,False
+segment_207.wav,sunlight on heat and light off,light on switch on light off,True,light,light,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_208.wav,bedrooms and on off,fan on off,True,,fan,"on,off","on,off",,,False,,,False,False,False,False,False
+segment_209.wav,what was on a form of,water on off,True,,,on,"on,off",,,False,,,False,False,False,False,False

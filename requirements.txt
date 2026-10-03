@@ -1,0 +1,17 @@
+pvporcupine==3.0.2
+vosk==0.3.45
+pyaudio==0.2.13
+sherpa-onnx==1.13.6
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
+apscheduler==3.10.4
+fastapi==0.112.2
+uvicorn==0.30.6
+pydantic==2.8.2
+pydantic-settings==2.3.4
+python-multipart==0.0.9
+
+# Test dependencies
+pytest==9.1.1
+httpx==0.28.1

@@ -1,0 +1,43 @@
+[Unit]
+Description=Home Automation System
+Documentation=https://github.com/your-repo/home-automation
+After=network-online.target sound.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=amogh
+Group=amogh
+WorkingDirectory=/home/amogh/home_auto/deploy/raspberry_pi/app
+Environment=PORCUPINE_ACCESS_KEY=
+Environment=GPIO_ENABLED=true
+Environment=RELAY_ACTIVE_HIGH=true
+Environment=LIGHT_RELAY_PIN=17
+Environment=FAN_RELAY_PIN=27
+Environment=DATABASE_PATH=/home/amogh/home_auto/deploy/raspberry_pi/app/data/home_automation.db
+Environment=VOSK_MODEL_PATH=/home/amogh/home_auto/deploy/raspberry_pi/app/models/vosk-model
+Environment=VOSK_USE_GRAMMAR=true
+Environment=VOSK_VOCAB_FILE=/home/amogh/home_auto/deploy/raspberry_pi/app/models/vosk-model/vocab.json
+Environment=VOICE_ENABLED=true
+Environment=AUDIO_INPUT_DEVICE_INDEX=0
+Environment=AUDIO_ALSA_DEVICE=plughw:1,0
+ExecStart=/home/amogh/home_auto/deploy/raspberry_pi/app/venv/bin/python -m uvicorn backend.main:app --host 0.0.0.0 --port 8000
+Restart=always
+RestartSec=5
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=home-automation
+
+# Security hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/home/amogh/home_auto/deploy/raspberry_pi/app/data
+ReadWritePaths=/home/amogh/home_auto/deploy/raspberry_pi/app/models
+
+# GPIO access
+SupplementaryGroups=gpio
+
+[Install]
+WantedBy=multi-user.target

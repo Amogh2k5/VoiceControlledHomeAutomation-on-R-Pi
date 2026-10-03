@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Automation</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-left">
+        <h1>Home</h1>
+        <p class="subtitle">Voice Controlled Home</p>
+      </div>
+      <div class="header-right">
+        <span class="voice-indicator" id="voiceIndicator" aria-label="Voice status">
+          <span class="dot"></span>
+          <span class="label">Voice Ready</span>
+        </span>
+      </div>
+    </header>
+
+    <!-- Home Summary -->
+    <section class="summary-bar" aria-label="Home summary">
+      <div class="greeting" id="greeting">Good evening</div>
+      <div class="counts" id="counts">
+        <span class="count on" id="onCount">0</span> devices ON · <span class="count off" id="offCount">8</span> devices OFF
+      </div>
+    </section>
+
+    <!-- Devices -->
+    <section class="devices-section" aria-label="My devices">
+      <h2 class="section-title">My Devices</h2>
+      <div class="grid" id="devicesGrid" role="list"></div>
+    </section>
+
+    <!-- Voice Activity -->
+    <section class="voice-activity" aria-label="Voice activity">
+      <h2 class="section-title">Voice Activity</h2>
+      <div class="activity-card">
+        <div class="activity-row">
+          <span class="activity-label">Last command</span>
+          <span class="activity-value" id="lastCommand">Waiting for voice command…</span>
+        </div>
+        <div class="activity-row">
+          <span class="activity-label">Recognized</span>
+          <span class="activity-value" id="recognizedDevice">—</span>
+        </div>
+        <div class="activity-row">
+          <span class="activity-label">Action</span>
+          <span class="activity-value" id="recognizedAction">—</span>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
